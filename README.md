@@ -26,7 +26,7 @@
   - Minimum/maximum arrival and service time
 
 ---
-![Queue Progress](images/Queue Progress.png)
+![QueueProgress](images/QueueProgress.png)
 
 ## **🛠️ Technologies Used**
 
